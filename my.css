@@ -206,10 +206,7 @@
     color:#444;
 }
 
-.project-card:hover{
-    transform:translateY(-5px);
-    transition:0.3s;
-}
+
 .certifications h2{
     margin-top:10px;
         border-bottom:2px solid #00BCD4;
